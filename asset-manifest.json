@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stat_calc/static/css/main.39662fb5.css",
+    "main.js": "/Stat_calc/static/js/main.61bf39f1.js",
+    "index.html": "/Stat_calc/index.html",
+    "main.39662fb5.css.map": "/Stat_calc/static/css/main.39662fb5.css.map",
+    "main.61bf39f1.js.map": "/Stat_calc/static/js/main.61bf39f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39662fb5.css",
+    "static/js/main.61bf39f1.js"
+  ]
+}
